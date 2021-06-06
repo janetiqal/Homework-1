@@ -22,7 +22,7 @@ The changes made in the css were made because the styling did no match the flow 
 Comments were added to make clear what styling the styling was doing and for what html element.
 In the CSS I was able to consolidate the code from 3 css styling elements to one by using  ".content h2" to style the H2's using their parent class of .content. I was able to do the same with their img styling,since they all have the same value size of 200px and the styling of the box elements in the main tag. The same was done for the class of benefits to style the images using the parent tag, instead of the three classess individually. I also used the parent class of benefits to code CSS for the H3 headings.
 ## Link to the app
-
+https://janetiqal.github.io/Homework-1/
 ## Screen shots of working application
 First half of broswer
 <img width="1439" alt="Screen Shot 2021-06-06 at 4 29 38 PM" src="https://user-images.githubusercontent.com/84414488/120940758-7c964c80-c6e4-11eb-9487-e6ec511004f6.png">
